@@ -1,0 +1,6 @@
+Sub Test()
+    Workbooks.Open "C:\Users\oskinner\Desktop\test.xls"
+    
+    MsgBox "Opening test file..."  
+        
+End Sub
